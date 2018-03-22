@@ -1,8 +1,9 @@
 # ROAD TRIP!
 
-Robert de Forest is going to [Get On His Bad Motor Scooter And Ride](https://www.youtube.com/watch?v=tk52nGxF-jc), and he's documenting the process here.
-
-Have you ever wanted to live vicariously through me? Now is the time!
+Have you ever wanted to live vicariously through Robert de Forest? Now is the
+time!  He's going to [Get On His Bad Motor Scooter And
+Ride](https://www.youtube.com/watch?v=tk52nGxF-jc), and he's documenting the
+process here.
 
 # The plan
 
