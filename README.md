@@ -9,8 +9,8 @@ process here.
 
 Many have already heard the exciting news: in March of 2018 Robert decided to
 go on a road trip on his motorcycle. He will post a detailed plan elsewhere in
-this project space, but the short version goes, a little something ..  _uh
-like **this**_:
+this project space, but the short version goes, a little something ..
+_uh like **this**_:
 
 - 2-4 weeks
  - move someone else into my place to get out of lease-breaking terms
