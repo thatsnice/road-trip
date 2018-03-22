@@ -20,10 +20,10 @@ _uh like **this**_:
 - 1-2 weeks
  - "short" motorcycle rides around the Pacific North West to make sure my bike and I are ready for this and to address any surprises.
 - thenceforth
- - Too  Hot   : ride North
- - Too  Cold  : ride South
- - Just Right : ride East
- - Reached the Atlantic : repeat with East/West swapped
+ - Too  Hot?    ride North
+ - Too  Cold?   ride South
+ - Just Right?  ride East
+  - Reached the Atlantic? repeat with East/West swapped
 
 # Some particulars
 
