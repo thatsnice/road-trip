@@ -13,17 +13,17 @@ this project space, but the short version goes, a little something ..
 _uh like **this**_:
 
 - 2-4 weeks
- - move someone else into my place to get out of lease-breaking terms
- - find safe places for irreplaceable stuff I want to keep and deliver stuff to those places as checked baggage when I visit said places
- - give away irreplaceable stuff I don't want to keep
- - throw out replaceable stuff nobody wants
+  - move someone else into my place to get out of lease-breaking terms
+  - find safe places for irreplaceable stuff I want to keep and deliver stuff to those places as checked baggage when I visit said places
+  - give away irreplaceable stuff I don't want to keep
+  - throw out replaceable stuff nobody wants
 - 1-2 weeks
- - "short" motorcycle rides around the Pacific North West to make sure my bike and I are ready for this and to address any surprises.
+  - "short" motorcycle rides around the Pacific North West to make sure my bike and I are ready for this and to address any surprises.
 - thenceforth
- - Too  Hot?    ride North
- - Too  Cold?   ride South
- - Just Right?  ride East
-  - Reached the Atlantic? repeat with East/West swapped
+  - Too  Hot?    ride North
+  - Too  Cold?   ride South
+  - Just Right?  ride East
+    - Reached the Atlantic? repeat with East/West swapped
 
 # Some particulars
 
