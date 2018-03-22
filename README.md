@@ -1,28 +1,29 @@
 # ROAD TRIP!
 
-Robert de Forest is going to [Get On His Bad Motor Scooter And Ride](https://www.youtube.com/watch?v=tk52nGxF-jc), and he's documenting the process here.
-
-Have you ever wanted to live vicariously through me? Now is the time!
+Have you ever wanted to live vicariously through Robert de Forest? Your time
+has come!  He's going to [Get On His Bad Motor Scooter And
+Ride](https://www.youtube.com/watch?v=tk52nGxF-jc), and he's documenting the
+process here.
 
 # The plan
 
-Many have already heard the exciting news: in March of 2018 I decided to go on
-a road trip on my motorcycle. I will post a detailed plan elsewhere in this
-project space, but the short version goes, a little something ..
-_uh like *this*_:
+Many have already heard the exciting news: in March of 2018 Robert decided to
+go on a road trip on his motorcycle. He will post a detailed plan elsewhere in
+this project space, but the short version goes, a little something ..
+_uh like **this**_:
 
 - 2-4 weeks
- - move someone else into my place to get out of lease-breaking terms
- - find safe places for irreplaceable stuff I want to keep and deliver stuff to those places as checked baggage when I visit said places
- - give away irreplaceable stuff I don't want to keep
- - throw out replaceable stuff nobody wants
+  - move someone else into my place to get out of lease-breaking terms
+  - find safe places for irreplaceable stuff I want to keep and deliver stuff to those places as checked baggage when I visit said places
+  - give away irreplaceable stuff I don't want to keep
+  - throw out replaceable stuff nobody wants
 - 1-2 weeks
- - "short" motorcycle rides around the Pacific North West to make sure my bike and I are ready for this and to address any surprises.
+  - "short" motorcycle rides around the Pacific North West to make sure my bike and I are ready for this and to address any surprises.
 - thenceforth
- - Too  Hot   : ride North
- - Too  Cold  : ride South
- - Just Right : ride East
- - Reached the Atlantic : repeat with East/West swapped
+  - Too  Hot?    ride North
+  - Too  Cold?   ride South
+  - Just Right?  ride East
+    - Reached the Atlantic? repeat with East/West swapped
 
 # Some particulars
 
