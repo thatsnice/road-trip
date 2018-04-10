@@ -1,0 +1,13 @@
+- No dependencies or dependents
+ - taxes
+ - motorcycle tabs
+ - end bills
+  - rent
+  - clink
+  - other?
+ - ANOTHER change-of-address :eyeroll:
+
+- To move out
+ - store/transport crap
+  - sort/package crap
+ - paperwork or pay fee or whatever
