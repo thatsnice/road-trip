@@ -1,13 +1,10 @@
-- No dependencies or dependents
- - taxes
- - motorcycle tabs
- - end bills
-  - rent
-  - clink
-  - other?
+- move stuff
+ - sort/package crap
+ - store/transport crap
+
+- clean-up
+ - apt paperwork / fee / whatever
+ - cancel CLink
  - ANOTHER change-of-address :eyeroll:
 
-- To move out
- - store/transport crap
-  - sort/package crap
- - paperwork or pay fee or whatever
+- Ride to Ogden
